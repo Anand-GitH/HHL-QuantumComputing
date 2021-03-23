@@ -9,5 +9,17 @@ a subroutine in more complex problems: given a matrix A and a vector b, find a v
 We use Amazon Braket language to implement this algorithm.
 
 
+Basics of Amazon Braket
+1. Braket language fundamentals
+2. Building quantum circuits
+3. Running on a simulator
+4. Processing results
+
+Created anew notebook to demonstrate fundamentals of Braket Language. 
+Basics - Amazon Braket.ipynb
+
+
+
+
 
 
