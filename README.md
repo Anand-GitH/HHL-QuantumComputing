@@ -22,7 +22,7 @@ Created notebooks to demonstrate fundamentals of Braket Language, Quantum phase 
 
 2. QPE - QPE_AmazonBraket.ipynb - to find eigen values of unitary matrix using - Quantum Phase Estimation
 3. QPE- Qiskit-QPEStandalone.ipynb - to find eigen values of any random matrix using - Quantum phase estimation with hamilitonion simulation using trotter method
-4. UnitaryEvolution_v2.pdf - explains how a non unitary matrix is converted to unitary approximation using hamiltonion simulation- trotter method
+4. UnitaryEvolution.pdf - explains how a non unitary matrix is converted to unitary approximation using hamiltonion simulation- trotter method
 5. QPE-Qiskit-HHL.ipynb - shows how condition number of a matrix is responsible for the success of HHL algorithm
 
 
