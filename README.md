@@ -14,7 +14,7 @@ Basics of Amazon Braket
 3. Running on a simulator
 4. Processing results
 
-Created anew notebook to demonstrate fundamentals of Braket Language. 
+Created notebooks to demonstrate fundamentals of Braket Language, Quantum phase estimation and HHL 
 1. Basics - Amazon Braket.ipynb
 2. QPE - QPE_AmazonBraket.ipynb - to find eigen values of unitary matrix using - Quantum Phase Estimation
 3. QPE- Qiskit-QPEStandalone.ipynb - to find eigen values of any random matrix using - Quantum phase estimation with hamilitonion simulation using trotter method
